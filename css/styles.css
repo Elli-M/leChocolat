@@ -54,3 +54,7 @@
             left: 0;
             min-height: 300px;
         }
+        #carouselButtons {
+            z-index: +1;
+
+        }
